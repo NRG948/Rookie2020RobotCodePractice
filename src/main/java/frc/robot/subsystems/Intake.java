@@ -8,7 +8,6 @@ import edu.wpi.first.math.MathUtil;
 import edu.wpi.first.wpilibj.motorcontrol.PWMSparkMax;
 import edu.wpi.first.wpilibj2.command.SubsystemBase;
 import frc.robot.Constants.ManipulatorConstants;
-import frc.robot.Constants.OperatorConstants;
 
 public class Intake extends SubsystemBase {
   /** Creates a new Intake. */
